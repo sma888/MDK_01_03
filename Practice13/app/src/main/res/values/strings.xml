@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice13</string>
+    <string name="kurs">Введите курс обмена</string>
+    <string name="summa">Введите сумму</string>
+    <string name="result">Результат</string>
+    <string name="summa_dol">сумма в долларах</string>
+    <string name="dol_rub">1 USD = RUB</string>
+    <string name="change">Конвертировать</string>
+</resources>
